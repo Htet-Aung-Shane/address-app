@@ -1,0 +1,29 @@
+#copyright{
+    color:black !important;
+    font-size: 15px;
+}
+#developed_by{
+    color:#2799ca !important;
+    font-size: 15px;
+    font-weight: 1000;
+}
+#desc{
+    margin-top: 20px;
+    padding: 80px;
+}
+
+table{
+    margin-top: 20px;
+}
+th{
+    font-size: 15px;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+a{
+    color:black;
+}
+iframe{
+    width: 300px;
+    height: 300px;
+}

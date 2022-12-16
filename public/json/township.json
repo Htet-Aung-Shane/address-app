@@ -1,0 +1,162 @@
+{    
+    "HlaingTharYar" : [
+        {
+        "st_eng" : "Ayer Street",
+        "st_myn": "ဧရာလမ်း"
+        },
+        {
+            "st_eng" : "Dhama Parla Street",
+            "st_myn": "ဓမ္မပါလလမ်း"
+        },
+        {
+            "st_eng" : "Gandamar Street",
+            "st_myn": "ဂန္ဓမာလမ်း"
+        },        
+        {
+            "st_eng" : "Golf Kwin Pat Street",
+            "st_myn": "ဂေါက်ကွင်းပတ်လမ်း"
+        },        
+        {
+            "st_eng" : "Khayae Street",
+            "st_myn": "ဂခရေလမ်း"
+        },        
+        {
+            "st_eng" : "Marlar Street",
+            "st_myn": "မာလာလမ်း"
+        },        
+        {
+            "st_eng" : "Myay Ni Street",
+            "st_myn": "မြေနီလမ်း"
+        },        
+        {
+            "st_eng" : "Nat Sin Street",
+            "st_myn": "နတ်စင်လမ်း"
+        },        
+        {
+            "st_eng" : "Padauk 2nd Street",
+            "st_myn": "ပိတောက်လမ်း"
+        },        
+        {
+            "st_eng" : "Padauk Street",
+            "st_myn": "ဂေါက်ကွင်းပတ်လမ်း"
+        },        
+        {
+            "st_eng" : "Sandar Lane",
+            "st_myn": "စန္ဒာလမ်းသွယ်"
+        },        
+        {
+            "st_eng" : "Sandar Street",
+            "st_myn": "စန္ဒာလမ်း"
+        },        
+        {
+            "st_eng" : "Seik Kan Thar Street",
+            "st_myn": "ဆိပ်ကမ်းသာလမ်း"
+        },        
+        {
+            "st_eng" : "Thapyae 1st Street",
+            "st_myn": "သပြေ ၁ လမ်း"
+        },        
+        {
+            "st_eng" : "Thapyae 2nd Street",
+            "st_myn": "သပြေ ၂ လမ်း"
+        },        
+        {
+            "st_eng" : "Thapyae Street",
+            "st_myn": "သပြေလမ်း"
+        },        
+        {
+            "st_eng" : "Thazin 2nd Street",
+            "st_myn": "သဇင် ၂ လမ်း"
+        },        
+        {
+            "st_eng" : "Thazin 3rd Street",
+            "st_myn": "သဇင် ၃ လမ်း"
+        },        
+        {
+            "st_eng" : "Thida Street",
+            "st_myn": "သီတာလမ်း"
+        },        
+        {
+            "st_eng" : "Zay Thit Street",
+            "st_myn": "ဈေးသစ်လမ်း"
+        },        
+        {
+            "st_eng" : "Daw Phwar Shin Street",
+            "st_myn": "ဒေါ်ဖွားရှင်လမ်း"
+        },        
+        {
+            "st_eng" : "Di Pe Yinn Wun Htaut U Myel Street",
+            "st_myn": "ီပဲယင်းဝန်ထောက်ဦးမြဲလမ်း"
+        },        
+        {
+            "st_eng" : "Hla Theingi Street",
+            "st_myn": "Kanaung Min Thar Gyi Street"
+        },        
+        {
+            "st_eng" : "Mg Kyan Thee Street",
+            "st_myn": "မောင်ကြံသီးလမ်း"
+        },        
+        {
+            "st_eng" : "Mg Than Street",
+            "st_myn": "မောင်သန်းလမ်း"
+        },        
+        {
+            "st_eng" : "Mya Taung Wun Gyi U Hmo Street",
+            "st_myn": "မြတောင်ဝန်ကြီးဦးမှိုလမ်း"
+        },        
+        {
+            "st_eng" : "Pabe Khaung Maung Khet Street",
+            "st_myn": "ပန်းဘဲခေါင်းမောင်ခက်လမ်း"
+        },        
+        {
+            "st_eng" : "Pan Hlaing Golf Kwin Street",
+            "st_myn": "ပန်းလှိုင်ဂေါက်ကွင်းလမ်း"
+        },        
+        {
+            "st_eng" : "Pan Ting Wun U Shwe Bin Street",
+            "st_myn": "ပပန်းတဉ်းဝန်ဦးရွှေဘင်လမ်း"
+        },        
+        {
+            "st_eng" : "Seik Kan Thar Street",
+            "st_myn": "ဆိပ်ကမ်းသာလမ်း"
+        },        
+        {
+            "st_eng" : "Set Sayar Mg Tun Street",
+            "st_myn": "စက်ဆရာမောင်ထွန်း"
+        },        
+        {
+            "st_eng" : "Twin Thin Taik Wun U Tun Nyo Road",
+            "st_myn": "တွင်းသင်းတိုက်ဝန်ဦးထွန်းညိုလမ်း"
+        }
+        
+    ],
+    "Bohtahtaung" : [
+        {
+        "st_eng" : "Ayer Street1",
+        "st_myn": "ဧရာလမ်"
+        },
+        {
+            "st_eng" : "Ayer Street1",
+            "st_myn": "ဧရာလမ်"
+        },
+        {
+            "st_eng" : "Ayer Street1",
+            "st_myn": "ဧရာလမ်"
+        },        
+        {
+            "st_eng" : "Ayer Street1",
+            "st_myn": "ဧရာလမ်"
+        }
+    ],
+    "SouthOkkalapa" : [
+        {
+        "st_eng" : "Yadanar Road",
+        "st_myn": "ရတနာလမ်း"
+        },
+        {
+        "st_eng" : "Anawmar Road",
+        "st_myn": "အနောမာလမ်း"
+        }
+    ]
+}
+

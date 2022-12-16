@@ -1,0 +1,1707 @@
+{    
+    "Thaketa" : [
+        {
+            "st_eng" : "7 Zay Road",
+            "st_myn": "၇ ဈေးလမ်း"
+        },
+        {
+            "st_eng" : "7 Zay Street",
+            "st_myn": "၇ ဈေးလမ်း"
+        },
+        {
+            "st_eng" : "Anawmar 10th Street (East)",
+            "st_myn": "အနော်မာ ၁၀ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 10th Street (West)",
+            "st_myn": "အနော်မာ ၁၀ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 11st Street (East)",
+            "st_myn": "အနော်မာ ၁၁ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 11st Street (West)",
+            "st_myn": "အနော်မာ ၁၁ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 11th Street (East)",
+            "st_myn": "အနော်မာ ၁၁ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 11th Street (West)",
+            "st_myn": "အနော်မာ ၁၁ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 12nd Street (East)",
+            "st_myn": "အနော်မာ ၁၂ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 12th Street (East)",
+            "st_myn": "အနော်မာ ၁၂ လမ်း (အရှေ့)"
+        },
+         {
+            "st_eng" : "Anawmar 13rd Street (East)",
+            "st_myn": "အနော်မာ ၁၃ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 13rd Street (West)",
+            "st_myn": "အနော်မာ ၁၃ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 13th Street (East)",
+            "st_myn": "အနော်မာ ၁၃ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 13th Street (West)",
+            "st_myn": "အနော်မာ ၁၃ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 14th Street (East)",
+            "st_myn": "အနော်မာ ၁၄ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 14th Street (West)",
+            "st_myn": "အနော်မာ ၁၄ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 15th Street (East)",
+            "st_myn": "အနော်မာ ၁၅ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 15th Street (West)",
+            "st_myn": "အနော်မာ ၁၅ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 16th Street (East)",
+            "st_myn": "အနော်မာ ၁၆ လမ်း (အရှေ့)"
+        },
+         {
+            "st_eng" : "Anawmar 17th Street",
+            "st_myn": "အနော်မာ ၁၇ လမ်း"
+        },
+        {
+            "st_eng" : "Anawmar 17th Street (East)",
+            "st_myn": "အနော်မာ ၁၇ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 18th Street",
+            "st_myn": "အနော်မာ ၁၈ လမ်း"
+        },
+        {
+            "st_eng" : "Anawmar 18th Street (East)",
+            "st_myn": "အနော်မာ ၁၈ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 19th Street",
+            "st_myn": "အနော်မာ ၁၉ လမ်း"
+        },
+        {
+            "st_eng" : "Anawmar 19th Street (East)",
+            "st_myn": "အနော်မာ ၁၉ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 1st Street (East)",
+            "st_myn": "အနော်မာ ၁ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 1st Street (West)",
+            "st_myn": "အနော်မာ ၁ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 20th Street",
+            "st_myn": "အနော်မာ ၂၀ လမ်း"
+        },
+         {
+            "st_eng" : "Anawmar 20th Street (East)",
+            "st_myn": "အနော်မာ ၂၀ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 21st Street",
+            "st_myn": "အနော်မာ ၂၁ လမ်း"
+        },
+        {
+            "st_eng" : "Anawmar 21st Street (East)",
+            "st_myn": "အနော်မာ ၂၁ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 2nd Street (East)",
+            "st_myn": "အနော်မာ ၂ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 2nd Street (West)",
+            "st_myn": "အနော်မာ ၂ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 3rd Street (East)",
+            "st_myn": "အနော်မာ ၃ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 3rd Street (West)",
+            "st_myn": "အနော်မာ ၃ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 4th Street (East)",
+            "st_myn": "အနော်မာ ၄ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 4th Street (West)",
+            "st_myn": "အနော်မာ ၄ လမ်း (အနောက်)"
+        },
+         {
+            "st_eng" : "Anawmar 5th Street (East)",
+            "st_myn": "အနော်မာ ၅ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 5th Street (West)",
+            "st_myn": "အနော်မာ ၅ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 6th Street (East)",
+            "st_myn": "အနော်မာ ၆ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 6th Street (West)",
+            "st_myn": "အနော်မာ ၆ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 7th Street (East)",
+            "st_myn": "အနော်မာ ၇ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Anawmar 7th Street (West)",
+            "st_myn": "အနော်မာ ၇ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 8th Street (West)",
+            "st_myn": "အနော်မာ ၈ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Anawmar 9th Street (West)",
+            "st_myn": "အနော်မာ ၉ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Ar Zar Ni Street",
+            "st_myn": "အာဇာနည်လမ်း"
+        },
+         {
+            "st_eng" : "Aung Chan Thar 1st Street",
+            "st_myn": "အောင်ချမ်းသာ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Chan Thar 2nd Street",
+            "st_myn": "အောင်ချမ်းသာ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Chan Thar 3rd Street",
+            "st_myn": "အောင်ချမ်းသာ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Chan Thar 4th Street",
+            "st_myn": "အောင်ချမ်းသာ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Chan Thar 5th Street",
+            "st_myn": "အောင်ချမ်းသာ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Chan Thar 6th Street",
+            "st_myn": "အောင်ချမ်းသာ ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Chan Thar 7th Street",
+            "st_myn": "အောင်ချမ်းသာ ၇ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Chan Thar 8th Street",
+            "st_myn": "အောင်ချမ်းသာ ၈ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Chan Thar Street",
+            "st_myn": "အောင်ချမ်းသာလမ်း"
+        },
+         {
+            "st_eng" : "Aung Mingalar Street",
+            "st_myn": "အောင်မင်္ဂလာလမ်း"
+        },
+        {
+            "st_eng" : "Aung Myay Yadanar Street",
+            "st_myn": "အောင်မြေရတနာလမ်း"
+        },
+        {
+            "st_eng" : "Aung Myittar Street",
+            "st_myn": "အောင်မေတ္တာလမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay 11th Street",
+            "st_myn": "အောင်သပြေ ၁၁ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay 12th Street",
+            "st_myn": "အောင်သပြေ ၁၂ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay 13th Street",
+            "st_myn": "အောင်သပြေ ၁၃ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay 1st Street",
+            "st_myn": "အောင်သပြေ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay 2nd Street",
+            "st_myn": "အောင်သပြေ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay 3rd Street",
+            "st_myn": "အောင်သပြေ ၃ လမ်း"
+        },
+         {
+            "st_eng" : "Aung Tha Pyay 4th Street",
+            "st_myn": "အောင်သပြေ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay 5th Street",
+            "st_myn": "အောင်သပြေ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay 6th Street",
+            "st_myn": "အောင်သပြေ ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay 7th Street",
+            "st_myn": "အောင်သပြေ ၇ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay 8th Street",
+            "st_myn": "အောင်သပြေ ၈ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay 9th Street",
+            "st_myn": "အောင်သပြေ ၉ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Tha Pyay Street",
+            "st_myn": "အောင်သပြေလမ်း"
+        },
+        {
+            "st_eng" : "Aung Thapyae 10th Street",
+            "st_myn": "အောင်သပြေ ၁၀ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thapyae 11st Street",
+            "st_myn": "အောင်သပြေ ၁၁ လမ်း"
+        },
+         {
+            "st_eng" : "Aung Thapyae 12nd Street",
+            "st_myn": "အောင်သပြေ ၁၂ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thapyae 13rd Street",
+            "st_myn": "အောင်သပြေ ၁၃ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thapyae 1st Street",
+            "st_myn": "အောင်သပြေ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thapyae 2nd Street",
+            "st_myn": "အောင်သပြေ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thapyae 3rd Street",
+            "st_myn": "အောင်သပြေ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thapyae 4th Street",
+            "st_myn": "အောင်သပြေ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thapyae 8th Street",
+            "st_myn": "အောင်သပြေ ၈ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thapyae 9th Street",
+            "st_myn": "အောင်သပြေ ၉ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thapyay 10th Street",
+            "st_myn": "အောင်သပြေ ၁၀ လမ်း"
+        },
+         {
+            "st_eng" : "Aung Thapyay 11th Street",
+            "st_myn": "အောင်သပြေ ၁၁ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thiri Street",
+            "st_myn": "အောင်သီရိလမ်း"
+        },
+        {
+            "st_eng" : "Aung Thitsar 1st Street",
+            "st_myn": "အောင်သစ္စာ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thitsar 2nd Street",
+            "st_myn": "အောင်သစ္စာ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thitsar 3rd Street",
+            "st_myn": "အောင်သစ္စာ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thitsar 4th Street",
+            "st_myn": "အောင်သစ္စာ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thitsar 5th Street",
+            "st_myn": "အောင်သစ္စာ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thitsar 6th Street",
+            "st_myn": "အောင်သစ္စာ ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thitsar 7th Street",
+            "st_myn": "အောင်သစ္စာ ၇ လမ်း"
+        },
+         {
+            "st_eng" : "Aung Thitsar 8th Street",
+            "st_myn": "အောင်သစ္စာ ၈ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thukha 19th Street",
+            "st_myn": "အောင်သုခ ၁၉ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thukha 20th Street",
+            "st_myn": "အောင်သုခ ၂၀ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thukha 21st Street",
+            "st_myn": "အောင်သုခ ၂၁ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thukha 22nd Street",
+            "st_myn": "အောင်သုခ ၂၂ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thukha 23rd Street",
+            "st_myn": "အောင်သုခ ၂၃ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thukha 24th Street",
+            "st_myn": "အောင်သုခ ၂၄ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thukha 25th Street",
+            "st_myn": "အောင်သုခ ၂၅ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thukha 26th Street",
+            "st_myn": "အောင်သုခ ၂၆ လမ်း"
+        },
+         {
+            "st_eng" : "Aung Thukha 27th Street",
+            "st_myn": "အောင်သုခ ၂၇ လမ်း"
+        },
+        {
+            "st_eng" : "Aung Thukha Street",
+            "st_myn": "အောင်သုခလမ်း"
+        },
+        {
+            "st_eng" : "Aung Yadanar Street",
+            "st_myn": "အောင်ရတနာလမ်း"
+        },
+        {
+            "st_eng" : "Aung Zaya Street",
+            "st_myn": "အောင်ဇေယျလမ်း"
+        },
+        {
+            "st_eng" : "Ayer Wun (Apyin) Street",
+            "st_myn": "ဧရာဝဏ်အပြင်လမ်း"
+        },
+        {
+            "st_eng" : "Ayer Wun (Atwin) Street",
+            "st_myn": "ဧရာဝဏ်အတွင်းလမ်း"
+        },
+        {
+            "st_eng" : "Ayer Wun Main Road",
+            "st_myn": "ဧရာဝဏ်လမ်းမကြီး"
+        },
+        {
+            "st_eng" : "Bo Min Yaung Street",
+            "st_myn": "ဗိုလ်မင်းရောင်လမ်း"
+        },
+        {
+            "st_eng" : "Dhamar Yon Street",
+            "st_myn": "ဓမ္မာရုံလမ်း"
+        },
+         {
+            "st_eng" : "Extension 1st Street",
+            "st_myn": "တိုးချဲ့ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Extension 2nd Street",
+            "st_myn": "တိုးချဲ့ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Gandamar Lower Street",
+            "st_myn": "ဂန္ဒမာအောက်လမ်း"
+        },
+        {
+            "st_eng" : "Gandamar Middle Street",
+            "st_myn": "ဂန္ဓမာအလယ်လမ်း"
+        },
+        {
+            "st_eng" : "Gandamar Upper Street",
+            "st_myn": "ဂန္ဓမာအထက်လမ်း"
+        },
+        {
+            "st_eng" : "Hnin Si Lane",
+            "st_myn": "နှင်းဆီလမ်းသွယ်"
+        },
+        {
+            "st_eng" : "Hnin Si Street",
+            "st_myn": "နှင်းဆီလမ်း"
+        },
+        {
+            "st_eng" : "Hospital Street",
+            "st_myn": "ဆေးရုံလမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 10th Street",
+            "st_myn": "ထူပါရုံ ၁၀ လမ်း"
+        },
+         {
+            "st_eng" : "Htu Par Yon 11th Street",
+            "st_myn": "ထူပါရုံ ၁၁ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 12th Street",
+            "st_myn": "ထူပါရုံ ၁၂ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 13th Street",
+            "st_myn": "ထူပါရုံ ၁၃ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 14th Street",
+            "st_myn": "ထူပါရုံ ၁၄ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 15th Street",
+            "st_myn": "ထူပါရုံ ၁၅ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 16th Street",
+            "st_myn": "ထူပါရုံ ၁၆ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 17th Street",
+            "st_myn": "ထူပါရုံ ၁၇ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 18th Street",
+            "st_myn": "ထူပါရုံ ၁၈ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 19th Street (West)",
+            "st_myn": "ထူပါရုံ ၁၉ လမ်း (အနောက်)"
+        },
+         {
+            "st_eng" : "Htu Par Yon 1st Street",
+            "st_myn": "ထူပါရုံ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 20th Street",
+            "st_myn": "ထူပါရုံ ၂၀ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 20th Street (West)",
+            "st_myn": "ထူပါရုံ ၂၀ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Htu Par Yon 21st Street",
+            "st_myn": "ထူပါရုံ ၂၁ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 21st Street (West)",
+            "st_myn": "ထူပါရုံ ၂၁ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Htu Par Yon 22nd Street",
+            "st_myn": "ထူပါရုံ ၂၂ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 22nd Street (West)",
+            "st_myn": "ထူပါရုံ ၂၂ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Htu Par Yon 23rd Street",
+            "st_myn": "ထူပါရုံ ၂၃ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 23rd Street (West)",
+            "st_myn": "ထူပါရုံ ၂၃ လမ်း (အနောက်)"
+        },
+         {
+            "st_eng" : "Htu Par Yon 2nd Street",
+            "st_myn": "ထူပါရုံ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 3rd Street",
+            "st_myn": "ထူပါရုံ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 4th Street",
+            "st_myn": "ထူပါရုံ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 5th Street",
+            "st_myn": "ထူပါရုံ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 6th Street",
+            "st_myn": "ထူပါရုံ ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 7th Street",
+            "st_myn": "ထူပါရုံ ၇ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 8th Street",
+            "st_myn": "ထူပါရုံ ၈ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon 9th Street",
+            "st_myn": "ထူပါရုံ ၉ လမ်း"
+        },
+        {
+            "st_eng" : "Htu Par Yon Street",
+            "st_myn": "ထူပါရုံလမ်း"
+        },
+         {
+            "st_eng" : "Ingyin Street",
+            "st_myn": "အင်ကြင်းလမ်း"
+        },
+        {
+            "st_eng" : "Kamar Kyi Road",
+            "st_myn": "ကမာကြည်လမ်း"
+        },
+        {
+            "st_eng" : "Kan Thar Yar Pat Street",
+            "st_myn": "ကမ်းသာယာပတ်လမ်း"
+        },
+        {
+            "st_eng" : "Kan Thar Yar Street",
+            "st_myn": "ကန်သာယာလမ်း"
+        },
+        {
+            "st_eng" : "Khaing Shwe War 1st Street",
+            "st_myn": "ခိုင်ရွှေဝါ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Khaing Shwe War 2nd Street",
+            "st_myn": "ခိုင်ရွှေဝါ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Khaing Shwe War 3rd Street",
+            "st_myn": "ခိုင်ရွှေဝါ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Khaing Shwe War 4th Street",
+            "st_myn": "ခိုင်ရွှေဝါ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Khaing Shwe War Street",
+            "st_myn": "ခိုင်ရွှေဝါလမ်း"
+        },
+         {
+            "st_eng" : "Kyauk Sein Street",
+            "st_myn": "ကျောက်စိမ်းလမ်း"
+        },
+        {
+            "st_eng" : "Kyaung Street",
+            "st_myn": "ကျောင်းလမ်း"
+        },
+        {
+            "st_eng" : "Laeyar 1st Street",
+            "st_myn": "လယ်ယာ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Laeyar 2nd Street",
+            "st_myn": "လယ်ယာ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Laeyar 3rd Street",
+            "st_myn": "လယ်ယာ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Laeyar 4th Street",
+            "st_myn": "လယ်ယာ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Laeyar 5th Street",
+            "st_myn": "လယ်ယာ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Laeyar 6th Street",
+            "st_myn": "လယ်ယာ ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Laeyar 7th Street",
+            "st_myn": "လယ်ယာ ၇ လမ်း"
+        },
+         {
+            "st_eng" : "Lan Thit 1st Street",
+            "st_myn": "လမ်းသစ် ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Lan Thit 2nd Street",
+            "st_myn": "လမ်းသစ် ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Mahar Wun Lower Street",
+            "st_myn": "မဟာဝန်အောက်လမ်း"
+        },
+        {
+            "st_eng" : "Mahar Wun Middle Street",
+            "st_myn": "မဟာဝန်အလယ်လမ်း"
+        },
+        {
+            "st_eng" : "Mahar Wun Upper Street",
+            "st_myn": "မဟာဝန်အထက်လမ်း"
+        },
+        {
+            "st_eng" : "Man Aung Street",
+            "st_myn": "မာန်အောင်လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyae 18th Street",
+            "st_myn": "မာန်ပြေ ၁၈ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyae Street",
+            "st_myn": "မာန်ပြေလမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 10th Street (East)",
+            "st_myn": "မာန်ပြေ ၁၀ လမ်း(အရှေ့)"
+        },
+         {
+            "st_eng" : "Man Pyay 10th Street (West)",
+            "st_myn": "မာန်ပြေ ၁၀ လမ်း(အနောက်)"
+        },
+        {
+            "st_eng" : "Man Pyay 11th Street (East)",
+            "st_myn": "မာန်ပြေ ၁၁ လမ်း(အရှေ့)"
+        },
+        {
+            "st_eng" : "Man Pyay 11th Street (West)",
+            "st_myn": "မာန်ပြေ ၁၁ လမ်း(အနောက်)"
+        },
+        {
+            "st_eng" : "Man Pyay 12th Street (East)",
+            "st_myn": "မာန်ပြေ ၁၂ လမ်း(အရှေ့)"
+        },
+        {
+            "st_eng" : "Man Pyay 12th Street (West)",
+            "st_myn": "မာန်ပြေ ၁၂ လမ်း(အနောက်)"
+        },
+        {
+            "st_eng" : "Man Pyay 13th Street (East)",
+            "st_myn": "မာန်ပြေ ၁၃ လမ်း(အရှေ့)"
+        },
+        {
+            "st_eng" : "Man Pyay 14th Street",
+            "st_myn": "မာန်ပြေ ၁၄ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 15th Street",
+            "st_myn": "မာန်ပြေ ၁၅ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 16th Street",
+            "st_myn": "မာန်ပြေ ၁၆ လမ်း"
+        },
+         {
+            "st_eng" : "Man Pyay 17th Street",
+            "st_myn": "မာန်ပြေ ၁၇ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 18th Street",
+            "st_myn": "မာန်ပြေ ၁၈ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 19th Street",
+            "st_myn": "မာန်ပြေ ၁၉ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 1st Street",
+            "st_myn": "မာန်ပြေ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 20th Street",
+            "st_myn": "မာန်ပြေ ၂၀ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 21st Street",
+            "st_myn": "မာန်ပြေ ၂၁ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 22nd Street",
+            "st_myn": "မာန်ပြေ ၂၂ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 2nd Street",
+            "st_myn": "မာန်ပြေ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 3rd Street",
+            "st_myn": "မာန်ပြေ ၃ လမ်း"
+        },
+         {
+            "st_eng" : "Man Pyay 4th Street",
+            "st_myn": "မာန်ပြေ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 5th Street",
+            "st_myn": "မာန်ပြေ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Man Pyay 6th Street (East)",
+            "st_myn": "မာန်ပြေ ၆ လမ်း(အရှေ့)"
+        },
+        {
+            "st_eng" : "Man Pyay 6th Street (West)",
+            "st_myn": "မာန်ပြေ ၆ လမ်း(အနောက်)"
+        },
+        {
+            "st_eng" : "Man Pyay 7th Street (East)",
+            "st_myn": "မာန်ပြေ ၇ လမ်း(အရှေ့)"
+        },
+        {
+            "st_eng" : "Man Pyay 7th Street (West)",
+            "st_myn": "မာန်ပြေ ၇ လမ်း(အနောက်)"
+        },
+        {
+            "st_eng" : "Man Pyay 8th Street (East)",
+            "st_myn": "မာန်ပြေ ၈ လမ်း(အရှေ့)"
+        },
+        {
+            "st_eng" : "Man Pyay 8th Street (West)",
+            "st_myn": "မာန်ပြေ ၈ လမ်း(အနောက်)"
+        },
+        {
+            "st_eng" : "Man Pyay 9th Street (East)",
+            "st_myn": "မာန်ပြေ ၉ လမ်း(အရှေ့)"
+        },
+         {
+            "st_eng" : "Man Pyay 9th Street (West)",
+            "st_myn": "မာန်ပြေ ၉ လမ်း(အနောက်)"
+        },
+        {
+            "st_eng" : "Man Pyay Street",
+            "st_myn": "မာန်ပြေလမ်း"
+        },
+        {
+            "st_eng" : "Manaw Hari Lower Street",
+            "st_myn": "မနော်ဟရီအောက်လမ်း"
+        },
+        {
+            "st_eng" : "Manaw Hari Upper Street",
+            "st_myn": "မနော်ဟရီအထက်လမ်း"
+        },
+        {
+            "st_eng" : "Manaw Haya Street (Lower)",
+            "st_myn": "မနော်ဟရအောက်လမ်း"
+        },
+        {
+            "st_eng" : "Manaw Haya Street (Upper)",
+            "st_myn": "မနော်ဟရအထက်လမ်း"
+        },
+        {
+            "st_eng" : "May Yu Lane",
+            "st_myn": "မေယုလမ်းသွယ်"
+        },
+        {
+            "st_eng" : "May Yu Street",
+            "st_myn": "မေယုလမ်း"
+        },
+        {
+            "st_eng" : "Min Ye Kyaw Swar Street",
+            "st_myn": "မင်းရဲကျော်စွာလမ်း"
+        },
+         {
+            "st_eng" : "Moe Thauk Pan Street",
+            "st_myn": "မိုးသောက်ပန်းလမ်း"
+        },
+        {
+            "st_eng" : "Mya Ayer Street",
+            "st_myn": "မြဧရာလမ်း"
+        },
+        {
+            "st_eng" : "Mya Khwar Nyo 1st Street",
+            "st_myn": "မြခွါညို ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Mya Khwar Nyo 2nd Street",
+            "st_myn": "မြခွါညို ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Mya Khwar Nyo 3rd Street",
+            "st_myn": "မြခွါညို ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Mya Khwar Nyo 4th Street",
+            "st_myn": "မြခွါညို ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Mya Khwar Nyo Street",
+            "st_myn": "မြခွါညိုလမ်း"
+        },
+        {
+            "st_eng" : "Mya Maralar Lane Street",
+            "st_myn": "မြမာလာလမ်းသွယ်"
+        },
+        {
+            "st_eng" : "Mya Marlar Street",
+            "st_myn": "မြမာလာလမ်း"
+        },
+         {
+            "st_eng" : "Mya Nandar 1st Street",
+            "st_myn": "မြနန္ဒာ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Mya Nandar 2nd Street",
+            "st_myn": "မြနန္ဒာ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Mya Nandar 3rd Street",
+            "st_myn": "မြနန္ဒာ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Mya Nandar Road",
+            "st_myn": "မြနန္ဒာလမ်း"
+        },
+        {
+            "st_eng" : "Mya Nandar Street 1st Lane",
+            "st_myn": "မြနန္ဒာလမ်းသွယ် ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Mya Yadanar Street",
+            "st_myn": "မြရတနာလမ်း"
+        },
+        {
+            "st_eng" : "Myaing Hay Wun Road",
+            "st_myn": "မြိုင်ဟေဝန်လမ်း"
+        },
+        {
+            "st_eng" : "Myanma Gon Yi Street",
+            "st_myn": "မြန်မာ့ဂုဏ်ရည်လမ်း"
+        },
+        {
+            "st_eng" : "Myin Taw Thar Road",
+            "st_myn": "မြင်တော်သာလမ်း"
+        },
+         {
+            "st_eng" : "Myittar Shin Street",
+            "st_myn": "မေတ္တာရှင်လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 10th Street",
+            "st_myn": "မြို့မ ၁၀ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 11th Street",
+            "st_myn": "မြို့မ ၁၁ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 12th Street",
+            "st_myn": "မြို့မ ၁၂ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 13th Street",
+            "st_myn": "မြို့မ ၁၃ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 13th Street (West)",
+            "st_myn": "မြို့မ ၁၃ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Myo Ma 14th Street",
+            "st_myn": "မြို့မ ၁၄ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 14th Street (West)",
+            "st_myn": "မြို့မ ၁၄ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Myo Ma 15th Street",
+            "st_myn": "မြို့မ ၁၅ လမ်း"
+        },
+         {
+            "st_eng" : "Myo Ma 15th Street (West)",
+            "st_myn": "မြို့မ ၁၅ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Myo Ma 16th Street",
+            "st_myn": "မြို့မ ၁၆ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 1st Street",
+            "st_myn": "မြို့မ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 2nd Street",
+            "st_myn": "မြို့မ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 3rd Street",
+            "st_myn": "မြို့မ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 4th Street",
+            "st_myn": "မြို့မ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 5th Street",
+            "st_myn": "မြို့မ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 6th Street",
+            "st_myn": "မြို့မ ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 7th Street",
+            "st_myn": "မြို့မ ၇ လမ်း"
+        },
+         {
+            "st_eng" : "Myo Ma 8th Street",
+            "st_myn": "မြို့မ ၈ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma 9th Street",
+            "st_myn": "မြို့မ ၉ လမ်း"
+        },
+        {
+            "st_eng" : "Myo Ma Street",
+            "st_myn": "မြို့မလမ်း"
+        },
+        {
+            "st_eng" : "Myo Pat Street",
+            "st_myn": "မြို့ပတ်လမ်း"
+        },
+        {
+            "st_eng" : "Naung Yoe Street",
+            "st_myn": "နောင်ရိုးလမ်း"
+        },
+        {
+            "st_eng" : "Nawarat 10th Street",
+            "st_myn": "နဝရတ် ၁၀ လမ်း"
+        },
+        {
+            "st_eng" : "Nawarat 11th Street",
+            "st_myn": "နဝရတ် ၁၁ လမ်း"
+        },
+        {
+            "st_eng" : "Nawarat 1st Street",
+            "st_myn": "နဝရတ် ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Nawarat 1st Street (Upper)",
+            "st_myn": "နဝရတ် ၁ လမ်း (အထက်)"
+        },
+         {
+            "st_eng" : "Nawarat 2nd Street",
+            "st_myn": "နဝရတ် ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Nawarat 2nd Street (Upper)",
+            "st_myn": "နဝရတ် ၂ လမ်း (အထက်)"
+        },
+        {
+            "st_eng" : "Nawarat 3rd Street",
+            "st_myn": "နဝရတ် ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Nawarat 3rd Street (Lower)",
+            "st_myn": "နဝရတ် ၃ လမ်း (အောက်)"
+        },
+        {
+            "st_eng" : "Nawarat 3rd Street (Upper)",
+            "st_myn": "နဝရတ် ၃ လမ်း (အထက်)"
+        },
+        {
+            "st_eng" : "Nawarat 4th Street",
+            "st_myn": "နဝရတ် ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Nawarat 5th Street",
+            "st_myn": "နဝရတ် ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Nawarat 6th Street",
+            "st_myn": "နဝရတ် ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Nawarat 7th Street",
+            "st_myn": "နဝရတ် ၇ လမ်း"
+        },
+         {
+            "st_eng" : "Nawarat 8th Street",
+            "st_myn": "နဝရတ် ၈ လမ်း"
+        },
+        {
+            "st_eng" : "Nawarat 9th Street",
+            "st_myn": "နဝရတ် ၉ လမ်း"
+        },
+        {
+            "st_eng" : "Nawarat Lan Kyal",
+            "st_myn": "နဝရတ်လမ်းကျယ်"
+        },
+        {
+            "st_eng" : "Nawarat Pat Road",
+            "st_myn": "နဝရတ်ပတ်လမ်း"
+        },
+        {
+            "st_eng" : "Nawarat Pat Street",
+            "st_myn": "နဝရတ်ပတ်လမ်း"
+        },
+        {
+            "st_eng" : "Ni Gawda Street",
+            "st_myn": "နိဂြောဓလမ်း"
+        },
+        {
+            "st_eng" : "Nilar Street",
+            "st_myn": "နီလာလမ်း"
+        },
+        {
+            "st_eng" : "Nwe Ni 1st Street",
+            "st_myn": "နွယ်နီ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Nwe Ni 2nd Street",
+            "st_myn": "နွယ်နီ ၂ လမ်း"
+        },
+         {
+            "st_eng" : "Nwe Ni 3rd Street",
+            "st_myn": "နွယ်နီ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Nwe Ni 4th Street",
+            "st_myn": "နွယ်နီ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Ohn Taw Street",
+            "st_myn": "အုန်းတောလမ်း"
+        },
+        {
+            "st_eng" : "Ou Yin Street",
+            "st_myn": "ဥယျာဉ်လမ်း"
+        },
+        {
+            "st_eng" : "Padamyar 1st Street",
+            "st_myn": "ပတ္တမြား ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Padamyar 2nd Street",
+            "st_myn": "ပတ္တမြား ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Padamyar 3rd Street",
+            "st_myn": "ပတ္တမြား ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Padamyar 4th Street",
+            "st_myn": "ပတ္တမြား ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Padauk Shwe War Street",
+            "st_myn": "ပိတောက်ရွှေဝါလမ်း"
+        },
+         {
+            "st_eng" : "Padauk War Street",
+            "st_myn": "ပိတောက်ဝါလမ်း"
+        },
+        {
+            "st_eng" : "Padonmar Street",
+            "st_myn": "ပဒုမ္မာလမ်း"
+        },
+        {
+            "st_eng" : "Paya Street",
+            "st_myn": "ဘုရားလမ်း"
+        },
+        {
+            "st_eng" : "Pyi Taw Nyunt Street",
+            "st_myn": "ပြည်တော်ညွှန့်လမ်း"
+        },
+        {
+            "st_eng" : "Sabai Street",
+            "st_myn": "စပယ်လမ်း"
+        },
+        {
+            "st_eng" : "Saw Yan Paing Street",
+            "st_myn": "စောရန်ပိုင်လမ်း"
+        },
+        {
+            "st_eng" : "Sein Yadanar Street",
+            "st_myn": "စိန်ရတနာလမ်း"
+        },
+        {
+            "st_eng" : "Shu Khin Thar Myo Pat Road",
+            "st_myn": "ရှု့ခင်းသာမြို့ပတ်လမ်း"
+        },
+        {
+            "st_eng" : "Shu Khin Thar Pat Road",
+            "st_myn": "ရှု့ခင်းသာပတ်လမ်း"
+        },
+         {
+            "st_eng" : "Shu Khin Thar Road",
+            "st_myn": "ရှု့ခင်းသာလမ်း"
+        },
+        {
+            "st_eng" : "Shukhinthar Myo Pat Street",
+            "st_myn": "ရှု့ခင်းသာမြို့ပတ်လမ်း"
+        },
+        {
+            "st_eng" : "Shukhinthar Street",
+            "st_myn": "ရှု့ခင်းသာလမ်း"
+        },
+        {
+            "st_eng" : "Shwe Myittar (Apyin) Street",
+            "st_myn": "ရွှေမေတ္တာလမ်း (အပြင်)"
+        },
+        {
+            "st_eng" : "Shwe Myittar (Atwin) Street",
+            "st_myn": "ရွှေမေတ္တာလမ်း (အတွင်း)"
+        },
+        {
+            "st_eng" : "Shwe Oat Gu 1st Street",
+            "st_myn": "ရွှေအုတ်ဂူ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Shwe Oat Gu 2nd Street",
+            "st_myn": "ရွှေအုတ်ဂူ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Shwe Oat Gu 3rd Street",
+            "st_myn": "ရွှေအုတ်ဂူ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Shwe Oat Gu 4th Street",
+            "st_myn": "ရွှေအုတ်ဂူ ၄ လမ်း"
+        },
+         {
+            "st_eng" : "Shwe Oat Gu 5th Street",
+            "st_myn": "ရွှေအုတ်ဂူ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Shwe Oat Gu 6th Street",
+            "st_myn": "ရွှေအုတ်ဂူ ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Shwe Oat Gu Lane",
+            "st_myn": "ရွှေအုတ်ဂူလမ်းသွယ်"
+        },
+        {
+            "st_eng" : "Shwe Oat Gu Road",
+            "st_myn": "ရွှေအုတ်ဂူလမ်း"
+        },
+        {
+            "st_eng" : "Shwe Pyi Thar Street",
+            "st_myn": "ရွှေပြည်သာလမ်း"
+        },
+        {
+            "st_eng" : "Thadar Yon Street",
+            "st_myn": "သဒ္ဒါရုံလမ်း"
+        },
+        {
+            "st_eng" : "Thalar Waddy 1st Street",
+            "st_myn": "သာလ္လာဝတီ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Thalar Waddy 2nd Street",
+            "st_myn": "သာလ္လာဝတီ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Thalar Waddy 3rd Street",
+            "st_myn": "သာလ္လာဝတီ ၃ လမ်း"
+        },
+         {
+            "st_eng" : "Thalar Waddy 4th Street",
+            "st_myn": "သာလ္လာဝတီ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Thalar Waddy 5th Street",
+            "st_myn": "သာလ္လာဝတီ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Thalar Waddy 6th Street",
+            "st_myn": "သာလ္လာဝတီ ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Thalar Waddy 7th Street",
+            "st_myn": "သာလ္လာဝတီ ၇ လမ်း"
+        },
+        {
+            "st_eng" : "Thalar Waddy 8th Street",
+            "st_myn": "သာလ္လာဝတီ ၈ လမ်း"
+        },
+        {
+            "st_eng" : "Tharlar Waddy 1st Street",
+            "st_myn": "သာလ္လာဝတီ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Tharlar Waddy 2nd Street",
+            "st_myn": "သာလ္လာဝတီ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Tharlar Waddy 3rd Street",
+            "st_myn": "သာလ္လာဝတီ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Tharlar Waddy 4th Street",
+            "st_myn": "သာလ္လာဝတီ ၄ လမ်း"
+        },
+         {
+            "st_eng" : "Tharlar Waddy 5th Street",
+            "st_myn": "သာလ္လာဝတီ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Tharlar Waddy 6th Street",
+            "st_myn": "သာလ္လာဝတီ ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Tharlar Waddy 7th Street",
+            "st_myn": "သာလ္လာဝတီ ၇ လမ်း"
+        },
+        {
+            "st_eng" : "Tharlar Waddy 8th Street",
+            "st_myn": "သာလ္လာဝတီ ၈ လမ်း"
+        },
+        {
+            "st_eng" : "Tharlar Waddy Street",
+            "st_myn": "သာလ္လာဝတီလမ်း"
+        },
+        {
+            "st_eng" : "Thazin Ni Street",
+            "st_myn": "သဇင်နီလမ်း"
+        },
+        {
+            "st_eng" : "Theingi 1st Street",
+            "st_myn": "သိင်္ဂီ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Theingi 2nd Street",
+            "st_myn": "သိင်္ဂီ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Theingi 3rd Street",
+            "st_myn": "သိင်္ဂီ ၃ လမ်း"
+        },
+         {
+            "st_eng" : "Theingi 4th Street",
+            "st_myn": "သိင်္ဂီ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Theingi 5th Street",
+            "st_myn": "သိင်္ဂီ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Thida Street",
+            "st_myn": "သီတာလမ်း"
+        },
+        {
+            "st_eng" : "Thitsar Shin Street",
+            "st_myn": "သစ္စာရှင်လမ်း"
+        },
+        {
+            "st_eng" : "Thitsar Street",
+            "st_myn": "သစ္စာလမ်း"
+        },
+        {
+            "st_eng" : "Thukhuma Street",
+            "st_myn": "သုခုမလမ်း"
+        },
+        {
+            "st_eng" : "Thumana 1st Street",
+            "st_myn": "သုမန ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Thumana 2nd Street",
+            "st_myn": "သုမန ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Thumana 3rd Street",
+            "st_myn": "သုမန ၃ လမ်း"
+        },
+         {
+            "st_eng" : "Thumana 4th Street",
+            "st_myn": "သုမန ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Thumana 5th Street",
+            "st_myn": "သုမန ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Thumana Road",
+            "st_myn": "သုမနလမ်း"
+        },
+        {
+            "st_eng" : "Thumana Street",
+            "st_myn": "သုမနလမ်း"
+        },
+        {
+            "st_eng" : "U Pho Kyar Street",
+            "st_myn": "ဦးဖိုးကျားလမ်း"
+        },
+        {
+            "st_eng" : "Waizayandar 10th Street",
+            "st_myn": "ဝေဇယန္တာ ၁၀ လမ်း"
+        },
+        {
+            "st_eng" : "Waizayandar 11th Street",
+            "st_myn": "ဝေဇယန္တာ ၁၁ လမ်း"
+        },
+        {
+            "st_eng" : "Waizayandar 12th Street",
+            "st_myn": "ဝေဇယန္တာ ၁၂ လမ်း"
+        },
+        {
+            "st_eng" : "Waizayandar 13th Street",
+            "st_myn": "ဝေဇယန္တာ ၁၃ လမ်း"
+        },
+         {
+            "st_eng" : "Waizayandar 14th Street",
+            "st_myn": "ဝေဇယန္တာ ၁၄ လမ်း"
+        },
+        {
+            "st_eng" : "Waizayandar 15th Street",
+            "st_myn": "ဝေဇယန္တာ ၁၅ လမ်း"
+        },
+        {
+            "st_eng" : "Waizayandar 16th Street",
+            "st_myn": "ဝေဇယန္တာ ၁၆ လမ်း"
+        },
+        {
+            "st_eng" : "Waizayandar 17th Street",
+            "st_myn": "ဝေဇယန္တာ ၁၇ လမ်း"
+        },
+        {
+            "st_eng" : "Waizayandar 18th Street",
+            "st_myn": "ဝေဇယန္တာ ၁၈ လမ်း"
+        },
+        {
+            "st_eng" : "Waizayandar Street",
+            "st_myn": "ဝေဇယန္တာလမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Bon 10th Street",
+            "st_myn": "ရတနာပုံ ၁၀ လမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Bon 11th Street",
+            "st_myn": "ရတနာပုံ ၁၁ လမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Bon 12th Street",
+            "st_myn": "ရတနာပုံ ၁၂ လမ်း"
+        },
+         {
+            "st_eng" : "Yadanar Bon 1st Street",
+            "st_myn": "ရတနာပုံ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Bon 2nd Street",
+            "st_myn": "ရတနာပုံ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Bon 3rd Street",
+            "st_myn": "ရတနာပုံ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Bon 4th Street",
+            "st_myn": "ရတနာပုံ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Bon 5th Street",
+            "st_myn": "ရတနာပုံ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Bon 6th Street",
+            "st_myn": "ရတနာပုံ ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Bon 7th Street",
+            "st_myn": "ရတနာပုံ ၇ လမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Bon 8th Street",
+            "st_myn": "ရတနာပုံ ၈ လမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Bon 9th Street",
+            "st_myn": "ရတနာပုံ ၉ လမ်း"
+        },
+         {
+            "st_eng" : "Yadanar Road",
+            "st_myn": "ရတနာလမ်း"
+        },
+        {
+            "st_eng" : "Yadanar Street",
+            "st_myn": "ရတနာလမ်း"
+        },
+        {
+            "st_eng" : "Yan Aung Street",
+            "st_myn": "ရန်အောင်လမ်း"
+        },
+        {
+            "st_eng" : "Yan Gyi Aung Street",
+            "st_myn": "ရန်ကြီးအောင်လမ်း"
+        },
+        {
+            "st_eng" : "Yan Naing Swe 1st Street",
+            "st_myn": "ရန်နိုင်ဆွေ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Yan Naing Swe 2nd Street",
+            "st_myn": "ရန်နိုင်ဆွေ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Yan Pyay 10th Street (East)",
+            "st_myn": "ရန်ပြေ ၁၀ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Yan Pyay 11th Street (East)",
+            "st_myn": "ရန်ပြေ ၁၁ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Yan Pyay 12th Street (West)",
+            "st_myn": "ရန်ပြေ ၁၂ လမ်း (အနောက်)"
+        },
+         {
+            "st_eng" : "Yan Pyay 13th Street",
+            "st_myn": "ရန်ပြေ ၁၃ လမ်း"
+        },
+        {
+            "st_eng" : "Yan Pyay 14th Street (East)",
+            "st_myn": "ရန်ပြေ ၁၄ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Yan Pyay 14th Street (West)",
+            "st_myn": "ရန်ပြေ ၁၄ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Yan Pyay 15th Street (East)",
+            "st_myn": "ရန်ပြေ ၁၅ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Yan Pyay 15th Street (West)",
+            "st_myn": "ရန်ပြေ ၁၅ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Yan Pyay 16th Street",
+            "st_myn": "ရန်ပြေ ၁၆ လမ်း"
+        },
+        {
+            "st_eng" : "Yan Pyay 17th Street (East)",
+            "st_myn": "ရန်ပြေ ၁၇ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Yan Pyay 17th Street (West)",
+            "st_myn": "ရန်ပြေ ၁၇ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Yan Pyay 18th Street (East)",
+            "st_myn": "ရန်ပြေ ၁၈ လမ်း (အရှေ့)"
+        },
+         {
+            "st_eng" : "Yan Pyay 18th Street (West)",
+            "st_myn": "ရန်ပြေ ၁၈ လမ်း (အနောက်)"
+        },
+        {
+            "st_eng" : "Yan Pyay 19th Street",
+            "st_myn": "ရန်ပြေ ၁၉ လမ်း"
+        },
+        {
+            "st_eng" : "Yan Pyay 1st Street",
+            "st_myn": "ရန်ပြေ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Yan Pyay 20th Street",
+            "st_myn": "ရန်ပြေ ၂၀ လမ်း"
+        },
+        {
+            "st_eng" : "Yan Pyay 21st Street (East)",
+            "st_myn": "ရန်ပြေ ၂၁ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Yan Pyay 22nd Street (East)",
+            "st_myn": "ရန်ပြေ ၂၂ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Yan Pyay 2nd Street",
+            "st_myn": "ရန်ပြေ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Yan Pyay 3rd Street",
+            "st_myn": "ရန်ပြေ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Yan Pyay 4th Street",
+            "st_myn": "ရန်ပြေ ၄ လမ်း"
+        },
+         {
+            "st_eng" : "Yan Pyay 5th Street",
+            "st_myn": "ရန်ပြေ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Yan Pyay 6th Street (East)",
+            "st_myn": "ရန်ပြေ ၆ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Yan Pyay 7th Street (East)",
+            "st_myn": "ရန်ပြေ ၇ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Yan Pyay 8th Street (East)",
+            "st_myn": "ရန်ပြေ ၈ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Yan Pyay 9th Street (East)",
+            "st_myn": "ရန်ပြေ ၉ လမ်း (အရှေ့)"
+        },
+        {
+            "st_eng" : "Yan Pyay Road",
+            "st_myn": "ရန်ပြေလမ်း"
+        },
+        {
+            "st_eng" : "Yandanar Bon 2nd Street",
+            "st_myn": "ရတနာပုံ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Yandanar Bon 3rd Street",
+            "st_myn": "ရတနာပုံ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Yandanar Bon 4th Street",
+            "st_myn": "ရတနာပုံ ၄ လမ်း"
+        },
+         {
+            "st_eng" : "Yandanar Bon 5th Street",
+            "st_myn": "ရတနာပုံ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Yarza Dirit Street",
+            "st_myn": "ရာဇဓိရာဇ်လမ်း"
+        },
+        {
+            "st_eng" : "Yuzana Street",
+            "st_myn": "ယုဇနလမ်း"
+        },
+        {
+            "st_eng" : "Zabu Thiri 1st Street",
+            "st_myn": "ဇမ္ဗူသီရိ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Zabu Thiri 2nd Street",
+            "st_myn": "ဇမ္ဗူသီရိ ၂ လမ်း"
+        },
+        {
+            "st_eng" : "Zabu Thiri 3rd Street",
+            "st_myn": "ဇမ္ဗူသီရိ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Zabu Thiri 4th Street",
+            "st_myn": "ဇမ္ဗူသီရိ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Zabu Thiri 5th Street",
+            "st_myn": "ဇမ္ဗူသီရိ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Zabu Thiri 6th Street",
+            "st_myn": "ဇမ္ဗူသီရိ ၆ လမ်း"
+        },
+         {
+            "st_eng" : "Zabu Thiri 7th Street",
+            "st_myn": "ဇမ္ဗူသီရိ ၇ လမ်း"
+        },
+        {
+            "st_eng" : "Zabu Thiri 8th Street",
+            "st_myn": "ဇမ္ဗူသီရိ ၈ လမ်း"
+        },
+        {
+            "st_eng" : "Zabu Thiri 9th Street",
+            "st_myn": "ဇမ္ဗူသီရိ ၉ လမ်း"
+        },
+        {
+            "st_eng" : "Zabu Thiri Lane",
+            "st_myn": "ဇမ္ဗူသီရိလမ်းသွယ်"
+        },
+        {
+            "st_eng" : "Zabu Thiri Street",
+            "st_myn": "ဇမ္ဗူသီရိလမ်း"
+        },
+        {
+            "st_eng" : "Zaw Ta Yone Street",
+            "st_myn": "ဇောတရုံလမ်း"
+        },
+        {
+            "st_eng" : "Zay Street",
+            "st_myn": "ဈေးလမ်း"
+        },
+        {
+            "st_eng" : "Zaya Waddy 1st Street",
+            "st_myn": "ဇေယျဝတီ ၁ လမ်း"
+        },
+        {
+            "st_eng" : "Zaya Waddy 2nd Street",
+            "st_myn": "ဇေယျဝတီ ၂ လမ်း"
+        },
+         {
+            "st_eng" : "Zaya Waddy 3rd Street",
+            "st_myn": "ဇေယျဝတီ ၃ လမ်း"
+        },
+        {
+            "st_eng" : "Zaya Waddy 4th Street",
+            "st_myn": "ဇေယျဝတီ ၄ လမ်း"
+        },
+        {
+            "st_eng" : "Zaya Waddy 5th Street",
+            "st_myn": "ဇေယျဝတီ ၅ လမ်း"
+        },
+        {
+            "st_eng" : "Zaya Waddy 6th Street",
+            "st_myn": "ဇေယျဝတီ ၆ လမ်း"
+        },
+        {
+            "st_eng" : "Zaya Waddy 7th Street",
+            "st_myn": "ဇေယျဝတီ ၇ လမ်း"
+        },
+        {
+            "st_eng" : "Zayar Shwe Myay Street",
+            "st_myn": "ဇေယျာရွှေမြေလမ်း"
+        },
+        {
+            "st_eng" : "Zena Man Aung Pagoda Street",
+            "st_myn": "ဇိနမာန်အောင်ဘုရားလမ်း"
+        },
+        {
+            "st_eng" : "Zingama Road",
+            "st_myn": "ဇင်္ဂမလမ်း"
+        },
+        {
+            "st_eng" : "Zingama Street",
+            "st_myn": "ဇင်္ဂမလမ်း"
+        },
+         {
+            "st_eng" : "Zizawar Street",
+            "st_myn": "ဇီဇဝါလမ်း"
+        }
+
+        
+        
+    ]
+}

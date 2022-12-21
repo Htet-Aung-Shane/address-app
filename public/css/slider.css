@@ -1,0 +1,73 @@
+.items {
+    max-width: 700px;
+    margin: auto;
+    background-color: white;
+   
+
+
+}
+.slider-custom{
+    background-color: white;
+    border-radius: 25px;
+    border: 1px solid rgb(66, 25, 115);
+    box-shadow: 10px 5px 5px bisque;
+    
+}
+.slider-custom:hover{
+    border: 2px solid #47B2E4;
+    box-shadow: 15px 10px 10px bisque;
+}
+
+.items img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 100%;
+}
+
+.stars i{
+    color: black;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+}
+.items q{
+    margin-top: 1.5rem;
+    font-size: 1.2rem;
+}
+.carousel-indicators{
+    position: relative;
+    margin-top: 1.5rem;
+}
+.carousel-indicators [data-bs-target] {
+        position: relative;
+        background-color: black;
+        border-radius: 100%;
+        width: 10px;
+        height: 10px;
+        margin-right: 5px;
+        font-size: 1.3rem;
+    }
+.carousel-indicators:hover [data-bs-target]{
+    color: aqua;
+
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: black;
+    display: inline-block;
+    width: 2rem;
+    height: 2.5rem;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 50% center;
+}
+
+
+.carousel-inner > .item {
+    position: relative;
+    display: none;
+    -webkit-transition: 1s ease-in-out left !important;
+    -moz-transition: 1s ease-in-out left !important;
+    -o-transition: 1s ease-in-out left !important;
+    transition: 1s ease-in-out left !important;
+}

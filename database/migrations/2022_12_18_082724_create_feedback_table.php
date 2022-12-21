@@ -17,9 +17,9 @@ class CreateFeedbackTable extends Migration
             $table->id();
             $table->string('name');
             $table->string('phone');
-            $table->string('gmail');
-            $table->string('message');
-            $table->string('img');
+            $table->string('gmail')->nullable();
+            $table->string('message')->nullable();
+            $table->string('img')->nullable();
             $table->timestamps();
         });
     }

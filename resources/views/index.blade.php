@@ -11,6 +11,26 @@
                     Type the house number, <cite title="Source Title">and click search</cite>
                 </figcaption>
             </figure>
+            <!-- autocomplete script -->
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+            <script type="text/javascript">
+                var path = "{{ route('autocomplete') }}";
+
+                $(document).on("change", '#township', function() {
+                    console.log(this.value);
+                    $.get(path, {
+                            option: $(this).val()
+                        },
+                        function(data) {
+                            console.log(data);
+                        }
+                    );
+
+                });
+            </script>
+
             <form action="search" method="get">
                 <div class="row g-2">
                     <div class="col-md">
@@ -106,7 +126,7 @@
             <br>
             <!-- testimonial -->
             <div class="container my-5 py-5 shadow text-center slider-custom">
-                <h2>What our app user says</h2>
+                <h2>What our app users say</h2>
                 <p class="lead">Here is the review from our valuable users</p>
                 <!-- carousel slider starts  -->
                 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">

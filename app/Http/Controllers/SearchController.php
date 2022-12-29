@@ -11,9 +11,9 @@ class SearchController extends Controller
     public function search(){
 
         //check session
-        if (request()->session()->has('thaketa')) {
+        if (request()->session()->has('lane')) {
             //
-            $thaketa=request()->session()->get('thaketa');
+            $lane=request()->session()->get('lane');
         }
         else
             return redirect('/');
@@ -21,6 +21,8 @@ class SearchController extends Controller
         //end of check session
         $township=request() -> township;
         $street=request() -> street;
+        session(['street' => $street]);
+        //return request()->session()->get('street');
         $hno=request() -> hno;
         $result=Http::get('https://api.dpsmap.com/api/?token=aLy1EiehhwJF7SJ10Hb1Vxx7&filter=hn&tsp='.$township.'&street='.$street.'&value='.$hno.'&similar=n');
         $result=json_decode($result);
@@ -44,7 +46,7 @@ class SearchController extends Controller
             $result=$result->data;
 
         }
-        return view('search',compact('result','thaketa','info'));
+        return view('search',compact('result','lane','info'));
 
 
 

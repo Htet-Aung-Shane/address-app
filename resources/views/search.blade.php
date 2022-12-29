@@ -11,6 +11,36 @@
               Type the house number, <cite title="Source Title">and click search</cite>
             </figcaption>
         </figure>
+        <!-- autocomplete script -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+        <script type="text/javascript">
+            var path = "{{ route('autocomplete') }}";
+
+            $(document).on("change", '#township', function() {
+                //console.log(this.value);
+                $.get(path, {
+                        option: $(this).val()
+                    },
+                    function(data) {
+                        console.log(data);
+                        var model = $('#street');
+                        model.empty();
+                        $.each(data, function(index, value) {
+                            model.append("<option value='" + value.st_eng + "'>" + value.st_eng + "</option>");
+                        });
+                    }
+                );
+
+            });
+
+            $(document).ready(function(){
+                $('#township option[value={{ Session::get('township') }}]').prop('selected', true);
+            });
+
+        </script>
+
         <form method="get">
             <div class="row g-2">
                 <div class="col-md">
@@ -61,7 +91,7 @@
                 <div class="col-md">
                   <div class="form-floating">
                     <select class="form-select" id="street" name="street" aria-label="Floating label select example">
-                        @foreach ($thaketa->Thaketa as $data)
+                        @foreach ($lane as $data)
                             <option value="{{ $data->st_eng }}">{{ $data->st_eng }} ({{ $data->st_myn }}) </option>
                         @endforeach
                     </select>
@@ -111,7 +141,7 @@
                 <th> House No (အိမ်နံပါတ်) </th>
                 <th> Street No(လမ်းနံပါတ်) </th>
                 <th> Township(မြို့နယ်) </th>
-                <th> Districtt(ခရိုင်) </th>
+                <th> District(ခရိုင်) </th>
                 <th> Click Here (နှိပ်ပါ) </th>
               </tr>
             </thead>

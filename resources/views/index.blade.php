@@ -19,12 +19,17 @@
                 var path = "{{ route('autocomplete') }}";
 
                 $(document).on("change", '#township', function() {
-                    console.log(this.value);
+                    //console.log(this.value);
                     $.get(path, {
                             option: $(this).val()
                         },
                         function(data) {
                             console.log(data);
+                            var model = $('#street');
+                            model.empty();
+                            $.each(data, function(index, value) {
+                                model.append("<option value='" + value.st_eng + "'>" + value.st_eng + "</option>");
+                            });
                         }
                     );
 
@@ -67,7 +72,7 @@
                                 <option value="Thingangyun">Thingangyun (သင်္ဃန်းကျွန်း) </option>
                                 <option value="Thongwa">Thongwa (သုံးခွ) </option>
                                 <option value="Yankin">Yankin (ရန်ကင်း) </option>
-                                <option value="Kawhum">Kawhmu (ကော့မှုး) </option>
+                                <option value="Kawhmu">Kawhmu (ကော့မှုး) </option>
                                 <option value="Kayan"> Kayan (ခရမ်း) </option>
                                 <option value="Kungyangon"> Kungyangon (ကွမ်းခြံကုန်း) </option>
                                 <option value="Kyauktan">Kyauktan (ကျောက်တန်း) </option>
@@ -83,7 +88,7 @@
                         <div class="form-floating">
                             <select class="form-select" id="street" name="street"
                                 aria-label="Floating label select example">
-                                @foreach ($thaketa->Thaketa as $data)
+                                @foreach ($lane as $data)
                                     <option value="{{ $data->st_eng }}">{{ $data->st_eng }} ({{ $data->st_myn }}) </option>
                                 @endforeach
                             </select>

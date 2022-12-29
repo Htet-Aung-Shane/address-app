@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>DPS's Address Search</title>
     <!-- Favicons -->
-    <link href="{{ URL::to('/') }}/images/logo.png" rel="icon">
+    <link href="{{ URL::to('/') }}/images/favicon.png" rel="icon">
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
 

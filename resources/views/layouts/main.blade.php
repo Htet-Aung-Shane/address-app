@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>DPS's Address Search</title>
+    <!-- Favicons -->
+    <link href="{{ URL::to('/') }}/images/logo.png" rel="icon">
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
 

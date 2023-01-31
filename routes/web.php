@@ -17,7 +17,7 @@ use App\Http\Controllers\FeedbackController;
 */
 
 Route::get('/original', function () {
-    return view('welcome');
+    session(['address.dpsmap.com' => 'data']);
 });
 
 
@@ -36,3 +36,6 @@ Route::post('feedback/action',[FeedbackController::class, 'bind']);
 Route::get('/thanks',function(){
     return view('thanksyou');
 })->name('thankyou');
+
+
+

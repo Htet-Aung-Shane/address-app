@@ -23,15 +23,19 @@ class DataController extends Controller
       $lane = json_decode($lane);
       session(['lane' => $lane]);
     }
+    if (request()->session()->has('address.dpsmap.com')) {
+      return view('index', [
+        'lane' => $lane
+      ]);
+    } else {
+      return redirect('https://address.dpsmap.com');
+    }
 
-    return view('index', [
-      'lane' => $lane
-    ]);
   }
 
   public function autocomplete(Request $request)
   {
-    
+
     $option = $request->option;
     if ($option == 'Thaketa')
       $data = Storage::get('json/thaketa.json');

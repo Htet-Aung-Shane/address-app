@@ -16,15 +16,16 @@ use App\Http\Controllers\FeedbackController;
 |
 */
 
-Route::get('/original', function () {
+Route::get('/session', function () {
     session(['address.dpsmap.com' => 'data']);
+    return redirect()->route('index');
 });
 
 
 //Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-Route::get('/',[DataController::class, 'index']);
+Route::get('/',[DataController::class, 'index'])->name('index');
 Route::get('autocomplete', [DataController::class, 'autocomplete'])->name('autocomplete');
 Route::get('/search',[SearchController::class, 'search'])->name('search');
 Route::post('/search',[SearchController::class, 'search'])->name('search2');

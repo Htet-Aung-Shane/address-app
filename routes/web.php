@@ -27,7 +27,7 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::get('/',[DataController::class, 'index']);
 Route::get('autocomplete', [DataController::class, 'autocomplete'])->name('autocomplete');
 Route::get('/search',[SearchController::class, 'search'])->name('search');
-Route::post('/search',[SearchController::class, 'search'])->name('search');
+Route::post('/search',[SearchController::class, 'search'])->name('search2');
 Route::get('/feedback',function(){
     return view('feedback');
 });

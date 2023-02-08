@@ -28,7 +28,8 @@
                             var model = $('#street');
                             model.empty();
                             $.each(data, function(index, value) {
-                                model.append("<option value='" + value.st_eng + "'>" + value.st_eng + "</option>");
+                                model.append("<option value='" + value.st_eng + "'>" + value.st_eng +
+                                    "</option>");
                             });
                         }
                     );
@@ -128,6 +129,53 @@
                         အသေးစိတ်ကိုပြပေးပါမည်။ ထို Data အသေးစိတ်ကို မြေပုံတွင်လဲတိုက်ရိုက်ကြည့်ရှုနိုင်ပါတယ်ခင်ဗျာ။</p>
                 </blockquote>
             </div>
+
+            <div class="card" id="desc">
+                <figure class="text-center">
+                    <blockquote class="blockquote">
+                        <h2>Business List</h2>
+                    </blockquote>
+                    <figcaption class="blockquote-footer">
+                        BusinessList ရဲ့ Database ထဲတွင် Data ပေါင်း <cite title="Source Title">၄သောင်းခန့် ရှိပါသည်။</cite>
+                    </figcaption>
+                </figure>
+
+                <form action="thanks" method="get">
+                    <div class="row g-2">
+                        <div class="col-md-8">
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="bno" name="bno"
+                                    placeholder="eg. 55" required>
+                                <label for="hno">Type The Business Name. </label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-control">
+                                <button type="submit" class="btn btn-outline-dark btn-lg">Search
+                                    <svg class="bi" width="24" height="24">
+                                        <use xlink:href="#search"></use>
+                                    </svg></button>
+                            </div>
+                        </div>
+                    </div>
+                </form><br>
+                <div class="card-footer">
+                    <blockquote class="blockquote">
+                        <p><svg class="bi" width="24" height="24">
+                                <use xlink:href="#info"></use>
+                            </svg>
+                            BusinessListဆိုသည်မှာ ရန်ကုန်မြို့ရှိ ဈေးဆိုင်များ၊စားသောက်ဆိုင်များ၊ဆေးဆိုင်များ အစရှိသော data
+                            များကို တစ်စုတစည်းတည်းစုဆောင်းထားသော Database တစ်ခုဖြစ်ပါသည်။
+
+                            လူကြီးမင်းတို့အနေနှင့် ရှာဖွေလိုသော လုပ်ငန်းများ၊စားသောက်ဆိုင်များ၊စေ◌ျးဆိုင်များ၊ဆေးဆိုင်များ
+                            အစရှိသည်တို့၏ နာမည်ကို အောက်တွင်ရှိသော search bar တွင် ရိုက်ရှာလိုက်ရုံဖြင့် Database ထဲတွင်
+                            ရှိပါက
+                            မြို့နယ်၊ခရိုင်၊လမ်း၊Longitude၊Latitude အစရှိသည်တို့ကို ဖော်ပြပေးပါသည်။
+                    </blockquote>
+                </div>
+            </div>
+
             <br>
             <!-- testimonial -->
             <div class="container my-5 py-5 shadow text-center slider-custom">
